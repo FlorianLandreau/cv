@@ -1,2 +1,3 @@
-# cv
-Mon CV, et autres infos personnelles
+# Florian Landreau
+
+[CV en ligne](http://florianlandreau.github.io/cv/cv.html)
